@@ -1,0 +1,7 @@
+﻿{
+  "name": "TeamMingo.P2D.Runtime",
+  "references": [
+    "Mingo.Base.Runtime",
+    "Toolbox"
+  ]
+}

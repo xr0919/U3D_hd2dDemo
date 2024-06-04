@@ -1,0 +1,1834 @@
+fileFormatVersion: 2
+guid: 1a8f906a99aa08b4b84560c69b8d4ad6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 227
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38fad45dccd85749a310bd54ab8a463
+      internalID: -693429405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 227
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0268f7f9c089974499ba57da69a2d671
+      internalID: -1511922185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 227
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54ac24a07694dd488457c9c9994418b
+      internalID: 1733447373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 227
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b86f577a35f08499bce1beadc9ce1a
+      internalID: 1575303225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 227
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e40a10490fa3d45ab08c2a63afb9ba
+      internalID: -562878517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 227
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51dc0ee834753104884c3acd78df768d
+      internalID: 615762493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_6
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 227
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9087fc152950e843b2800bd447734c0
+      internalID: 1186970349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 227
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ff36a8c5450604e9dee044c52cd260
+      internalID: 1801118961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 227
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01da122cf93a65f488f1a4b45f618605
+      internalID: 1974367994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 227
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717c06382c3ca3f41b25075a5f935d3e
+      internalID: 257755617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 227
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3097f920e13354093d1fbad8241c39
+      internalID: 1869069207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_11
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 227
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833d724420b91074893f5be098eb709c
+      internalID: 1434010507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 227
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408c866f91e7cf439320684082ac6bf
+      internalID: -949626117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 227
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c6bb92360187d48868ac0d67e77d91
+      internalID: 808988520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 227
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c545c879ee1bf449dd9f7166f6add7
+      internalID: 1453936226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_15
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 227
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d1add7cf470e142a902d2ce129d70c
+      internalID: 1379079747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_16
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 228
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8accfd06ab7b20a4a8aadc8dc55032a3
+      internalID: 669970268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 227
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87bad456dcd7a24ab9644a737c92ca4
+      internalID: 670626112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_18
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 228
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a8aa97df91ab649825d18120482a60
+      internalID: -989519335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 228
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354adda89f8780c41977b1ec650a45d0
+      internalID: 278734573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 228
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb3c7728c05ec54c916280d28e8e15c
+      internalID: 1767127052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 227
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aef9833e3fce24c93d832aa5678451
+      internalID: -1129436192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_22
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 227
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0720334dae073f54187abe7e1595d5f1
+      internalID: -870677722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 227
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466ede00f51255045bd409ee296860ac
+      internalID: 1575077408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_24
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 227
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619152bf3511279408ca06b169d21ada
+      internalID: 786449347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_25
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 227
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7ab5164abdb5d48ba03cd50f775b98
+      internalID: 359620249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_26
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 227
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee32de5a8d1bae47a2899c5b52b5762
+      internalID: 1928699394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_27
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 239
+        width: 27
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2ebf9baaa82324fb45331ff31d9124
+      internalID: 1527342553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 210
+        width: 27
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc3b6ce3d02dd44499b5397f6299624
+      internalID: -796446178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_29
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 198
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c041a6ae90b219a4ba41182ca2c08a02
+      internalID: -116086696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_30
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 198
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664f623c8b84e4a419b2451d1d97b199
+      internalID: -132031086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 200
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748e9bcf0273f9d4eb3e28d844606997
+      internalID: 1261517833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_32
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 198
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b60851e0df255428b1441ff17be2de
+      internalID: -1893448941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 197
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1ec99fd9fe982458aebb615ef5df73
+      internalID: 1910720383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_34
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 200
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23db44a06b7be64e949340ff5cf0034
+      internalID: -1531857712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 198
+        width: 17
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec368d042beb2f4385fb5283745b8f6
+      internalID: 1156323889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_36
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 197
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f470be2d1d51fb640844750e9f4da5d7
+      internalID: -1186491813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_37
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 200
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736a9e240a5f2024c8025dd0405b383b
+      internalID: 493836035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_38
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 199
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6053d4e38d3ade4cba9bacd7d75c23c
+      internalID: 1476711227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_39
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 198
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e33bffe5658e0479928e467d517861
+      internalID: 125384104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_40
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 200
+        width: 17
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1718d37a9bf369a489f7fc549bec840a
+      internalID: 165064325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_41
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 199
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639d3ee467486eb48a68e971aa1b5529
+      internalID: -1185912022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_42
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 198
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7335ea0892bbb9e42b2d2bfd43b9049c
+      internalID: 1024705692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_43
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 199
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816a845e145dc71439633e501edfe76f
+      internalID: -1786725537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_44
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 198
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0f07c81b7c6a64e9592515737cfc24
+      internalID: 1764900353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_45
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 197
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b47c0fec0302b46bc88847ebadbc4d
+      internalID: 1038139726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_46
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 200
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2fd93b1ca5f96418bca0c2b670efd5
+      internalID: 1326156665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_47
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 199
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33bbbbf0569d7745a904f1eed72fb24
+      internalID: -1525829299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_48
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 198
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa36a26cefc2bac4abfd539180c5dea0
+      internalID: -2064150250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_49
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 199
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2152a8acb7c2f498a5f39b792f5eb4
+      internalID: 1213745785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_50
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 198
+        width: 16
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d000e14e50b3e3b4e90e371a88204af1
+      internalID: 1115395250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_51
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 197
+        width: 16
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675c0acfa2c3b1b43a75429c143a3996
+      internalID: 1175731450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_52
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 200
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f134effde566a428a84100ebdc2c23
+      internalID: 1132714750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_53
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 199
+        width: 16
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b4c9701ee5e6e44b8e67fdb84497be
+      internalID: -1436293127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_54
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 198
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba096b1cb79c6d44867d50861837f4d
+      internalID: 476818632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 168
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8b040f143324a438cd9fdc77c12a68
+      internalID: 606851267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 168
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348546debf9172344a18a4332a24b9a4
+      internalID: 246271114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 168
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94e74ec99122ab4f9a7cd362978b6f3
+      internalID: -2108571378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 168
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fe3ec3147ebbd45b69b1b6de8b36cb
+      internalID: 117641621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_59
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 168
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebd141419da2fe4ea177e86c9b49970
+      internalID: 794107857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_60
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 168
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f87355da9223784393324f332589a9c
+      internalID: 733603670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_61
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 168
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11735767d7d62245a17296ec4df6ae9
+      internalID: -290223144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 168
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5308f1291326601449287e6a0885f851
+      internalID: 1282078468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_63
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 168
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da30022ccd117d546b08f2442c9245a9
+      internalID: -350517703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_64
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 168
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ece2a147fe2954f8ac8218f83f27bd
+      internalID: 652033925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_65
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 169
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f34ccc056ae23a45a6c8a815209fcc3
+      internalID: 236183346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_66
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 168
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0b03325a4144546a11258d33513402
+      internalID: -355801186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_67
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 168
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853989bb35e294a4485d3d5c7d14ba54
+      internalID: -224164488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_68
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 169
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e256f4b69d127f4fa4e13c396894036
+      internalID: -768226397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_69
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 168
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2e654ca67eaa94c8cf440ab0e731a2
+      internalID: -258307953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_70
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 168
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fb2a53832dd6747b4d6e4b11735a85
+      internalID: -368132462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_71
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 169
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cac39bc1797bb14f953ef3a36fc9235
+      internalID: -698200722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 168
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3108c8af61871db47a1824eff512197e
+      internalID: -1967270371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_73
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 168
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02e4f01e1f65794a8d2a7b4e318f7b8
+      internalID: 1084804979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_74
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 169
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d32cada229d4e642853c5e764f4aff0
+      internalID: -1653935850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_75
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 168
+        width: 14
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28158e5556ad0c4f900575aa3e04291
+      internalID: 2092090850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_CF_cl_76
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 168
+        width: 15
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962dc7970578c8544b7d00da34a807af
+      internalID: 816953266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8ee818a55ba67c34987538ac338240be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ChrTX_NpcClf_CF_cl_0: -693429405
+      ChrTX_NpcClf_CF_cl_1: -1511922185
+      ChrTX_NpcClf_CF_cl_10: 1869069207
+      ChrTX_NpcClf_CF_cl_11: 1434010507
+      ChrTX_NpcClf_CF_cl_12: -949626117
+      ChrTX_NpcClf_CF_cl_13: 808988520
+      ChrTX_NpcClf_CF_cl_14: 1453936226
+      ChrTX_NpcClf_CF_cl_15: 1379079747
+      ChrTX_NpcClf_CF_cl_16: 669970268
+      ChrTX_NpcClf_CF_cl_17: 670626112
+      ChrTX_NpcClf_CF_cl_18: -989519335
+      ChrTX_NpcClf_CF_cl_19: 278734573
+      ChrTX_NpcClf_CF_cl_2: 1733447373
+      ChrTX_NpcClf_CF_cl_20: 1767127052
+      ChrTX_NpcClf_CF_cl_21: -1129436192
+      ChrTX_NpcClf_CF_cl_22: -870677722
+      ChrTX_NpcClf_CF_cl_23: 1575077408
+      ChrTX_NpcClf_CF_cl_24: 786449347
+      ChrTX_NpcClf_CF_cl_25: 359620249
+      ChrTX_NpcClf_CF_cl_26: 1928699394
+      ChrTX_NpcClf_CF_cl_27: 1527342553
+      ChrTX_NpcClf_CF_cl_28: -796446178
+      ChrTX_NpcClf_CF_cl_29: -116086696
+      ChrTX_NpcClf_CF_cl_3: 1575303225
+      ChrTX_NpcClf_CF_cl_30: -132031086
+      ChrTX_NpcClf_CF_cl_31: 1261517833
+      ChrTX_NpcClf_CF_cl_32: -1893448941
+      ChrTX_NpcClf_CF_cl_33: 1910720383
+      ChrTX_NpcClf_CF_cl_34: -1531857712
+      ChrTX_NpcClf_CF_cl_35: 1156323889
+      ChrTX_NpcClf_CF_cl_36: -1186491813
+      ChrTX_NpcClf_CF_cl_37: 493836035
+      ChrTX_NpcClf_CF_cl_38: 1476711227
+      ChrTX_NpcClf_CF_cl_39: 125384104
+      ChrTX_NpcClf_CF_cl_4: -562878517
+      ChrTX_NpcClf_CF_cl_40: 165064325
+      ChrTX_NpcClf_CF_cl_41: -1185912022
+      ChrTX_NpcClf_CF_cl_42: 1024705692
+      ChrTX_NpcClf_CF_cl_43: -1786725537
+      ChrTX_NpcClf_CF_cl_44: 1764900353
+      ChrTX_NpcClf_CF_cl_45: 1038139726
+      ChrTX_NpcClf_CF_cl_46: 1326156665
+      ChrTX_NpcClf_CF_cl_47: -1525829299
+      ChrTX_NpcClf_CF_cl_48: -2064150250
+      ChrTX_NpcClf_CF_cl_49: 1213745785
+      ChrTX_NpcClf_CF_cl_5: 615762493
+      ChrTX_NpcClf_CF_cl_50: 1115395250
+      ChrTX_NpcClf_CF_cl_51: 1175731450
+      ChrTX_NpcClf_CF_cl_52: 1132714750
+      ChrTX_NpcClf_CF_cl_53: -1436293127
+      ChrTX_NpcClf_CF_cl_54: 476818632
+      ChrTX_NpcClf_CF_cl_55: 606851267
+      ChrTX_NpcClf_CF_cl_56: 246271114
+      ChrTX_NpcClf_CF_cl_57: -2108571378
+      ChrTX_NpcClf_CF_cl_58: 117641621
+      ChrTX_NpcClf_CF_cl_59: 794107857
+      ChrTX_NpcClf_CF_cl_6: 1186970349
+      ChrTX_NpcClf_CF_cl_60: 733603670
+      ChrTX_NpcClf_CF_cl_61: -290223144
+      ChrTX_NpcClf_CF_cl_62: 1282078468
+      ChrTX_NpcClf_CF_cl_63: -350517703
+      ChrTX_NpcClf_CF_cl_64: 652033925
+      ChrTX_NpcClf_CF_cl_65: 236183346
+      ChrTX_NpcClf_CF_cl_66: -355801186
+      ChrTX_NpcClf_CF_cl_67: -224164488
+      ChrTX_NpcClf_CF_cl_68: -768226397
+      ChrTX_NpcClf_CF_cl_69: -258307953
+      ChrTX_NpcClf_CF_cl_7: 1801118961
+      ChrTX_NpcClf_CF_cl_70: -368132462
+      ChrTX_NpcClf_CF_cl_71: -698200722
+      ChrTX_NpcClf_CF_cl_72: -1967270371
+      ChrTX_NpcClf_CF_cl_73: 1084804979
+      ChrTX_NpcClf_CF_cl_74: -1653935850
+      ChrTX_NpcClf_CF_cl_75: 2092090850
+      ChrTX_NpcClf_CF_cl_76: 816953266
+      ChrTX_NpcClf_CF_cl_8: 1974367994
+      ChrTX_NpcClf_CF_cl_9: 257755617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
