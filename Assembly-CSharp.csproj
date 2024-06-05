@@ -71,6 +71,7 @@
     <Compile Include="Assets\HD2DProject\Scripts\Sprites\SpriteSorting.cs" />
     <Compile Include="Assets\Scripts\NPC\NPCLogic.cs" />
     <Compile Include="Assets\Scripts\Dialogue\Logic\DialogueController.cs" />
+    <Compile Include="Assets\Scripts\NPC\NPCWander.cs" />
     <Compile Include="Assets\HD2DProject\Scripts\Characters\HD2DCharacter.cs" />
     <Compile Include="Assets\Scripts\Player\Player.cs" />
     <Compile Include="Assets\Scripts\Utilities\SwitchBounts.cs" />

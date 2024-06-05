@@ -20,14 +20,14 @@ public class NPCLogic : MonoBehaviour
     }
     private void OnTriggerStay(Collider other)
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.Space)&& other.CompareTag("Player"))
         {
             dialogueTrans.gameObject.SetActive(false);
         }
     }
     private void OnTriggerExit(Collider other)
     {
-        dialogueTrans.gameObject.SetActive(true);
+        if(other.CompareTag("Player")) dialogueTrans.gameObject.SetActive(true);
     }
 
 }

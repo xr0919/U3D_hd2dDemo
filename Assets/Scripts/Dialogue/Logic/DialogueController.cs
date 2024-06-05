@@ -51,21 +51,21 @@ public class DialogueController : MonoBehaviour
 
         private void Update()
         {
-        dialogPanel = GameObject.Find("DialogPanel");
-        if (dialogPanel != null ) dialogueRectTransform = dialogPanel.GetComponent<RectTransform>();
-        //uiSign.SetActive(canTalk);
-        //世界坐标转屏幕坐标
-        Vector3 npcW2S = Camera.main.WorldToScreenPoint(this.transform.position);
-        Vector3 tempV = new Vector3(npcW2S.x-120, npcW2S.y + 80, npcW2S.z);
-        //print(npcW2S);
-        if (dialogueRectTransform != null) {
-            dialogueRectTransform.position = tempV;
-            //print(dialogueRectTransform.position);
-        }
+            dialogPanel = GameObject.Find("DialogPanel");
+            if (dialogPanel != null ) dialogueRectTransform = dialogPanel.GetComponent<RectTransform>();
+            //uiSign.SetActive(canTalk);
+            
 
             if (canTalk & Input.GetKeyDown(KeyCode.Space) && !isTalking)
                 {
                     StartCoroutine(DailogueRoutine());
+                    //世界坐标转屏幕坐标
+                    Vector3 npcW2S = Camera.main.WorldToScreenPoint(this.transform.position);
+                    Vector3 tempV = new Vector3(npcW2S.x - 120, npcW2S.y + 80, npcW2S.z);
+                    if (dialogueRectTransform != null)
+                    {
+                        dialogueRectTransform.position = tempV;
+                    }
                 }
         }
 

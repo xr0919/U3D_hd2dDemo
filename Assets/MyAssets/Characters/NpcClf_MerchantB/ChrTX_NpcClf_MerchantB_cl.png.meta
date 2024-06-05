@@ -1,0 +1,3000 @@
+fileFormatVersion: 2
+guid: 4de54b1e59cff9f4e905dbef77e52d49
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 220
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04bdf474d92f88146af22f3ca42b7e3c
+      internalID: -1524631719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 220
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dad52f6dd45e14889e026051ef497e
+      internalID: -457678852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 220
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7c7fdbf2cb12246b4e73f2ee6de579
+      internalID: -1689284593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 220
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1460f511bd3dabc47b865f3ca0c0875b
+      internalID: 681331999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 227
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc2a9c9561711c4db0467ba415841c2
+      internalID: -2125537592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 227
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595bbd61cf631cb44aefdeb0ffc4bc79
+      internalID: 988547126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 227
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ecc6ca86e8b8149b59d21fa01e6f5f
+      internalID: 1559932002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 227
+        width: 21
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a47e1dd3ff292540a8bcb1acef2243d
+      internalID: -263793047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_8
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 220
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4feb9c248a0d25045a7c9dcc74dc15b3
+      internalID: 1705409634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 222
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8371e0b588eb9242a61da285a14517b
+      internalID: -1815890048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 224
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35ee83a9b34894469b10c6c5241bdc3
+      internalID: 2090388062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 224
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ad88f6c6210a0449d6ffd5b5bee382
+      internalID: -1849235386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 225
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebfd65e7fbe5634d92923a42fb1907d
+      internalID: 430639446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 225
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c4d4d26893f5b4cb53be36afcedb75
+      internalID: -832725377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_14
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 224
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8409f3d1fc214d147b02a9f6fc688ac7
+      internalID: -308364205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_15
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 222
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8633310892446ff40aeeb4e6c27c43ce
+      internalID: 1867685573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_16
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 220
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400f197669441c74c80c4b9fa301cc7f
+      internalID: -797586684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_17
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 222
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5da2673ad945b4cb6c3f8c30159367
+      internalID: 684483431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_18
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 224
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41795fee0adefc4391d46b2dee59cc1
+      internalID: -94782177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_19
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 224
+        width: 20
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0996a46f3a262924691be39027ee186a
+      internalID: -2095746625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_20
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 225
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26360baf7f036a747b9ae30639ae6714
+      internalID: -1623279979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 225
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775e8d86961c8e54cadeb97acb99ccc7
+      internalID: 1818399586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_22
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 224
+        width: 21
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdb0a978eded4244b3eeab6cc1273e9
+      internalID: 1803083169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 186
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f459805af7b11f4981994e14264b549
+      internalID: -1752640178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 185
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb392400c38a7444b73b86109108912
+      internalID: 406666182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 186
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a208dc7d20becd44a9d2ded39df277f
+      internalID: 716590815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 186
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6951064f52da76a40b6d0ee50343d9bf
+      internalID: -907565645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 185
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2a01488be32804289e107b3db5b8e6
+      internalID: -1012905289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_28
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 186
+        width: 19
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5d175ab9dcb9f429ddc1cd20b66311
+      internalID: -283568217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_29
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 186
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4832440a1568641a9e3b6b40238298
+      internalID: -536883328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 184
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749231abc61a14441a2dc805393dd78a
+      internalID: -580963663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_31
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 185
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9c3b7891506f442bc523d759cb320e
+      internalID: 1998247228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 186
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c53bef69e93ec478c90fc2d282d343
+      internalID: -1742328618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_33
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 186
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb44a6b54607a842b1a042d9f40845e
+      internalID: -916991879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_34
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 186
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d9c523c0cfb654dbe8424a479c26ad
+      internalID: -970801840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_35
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 186
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd370e0ad87d874db968489358ff0a5
+      internalID: 630873051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_36
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 185
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f3be6bf7d4b15428a00e3b832499b7
+      internalID: 1871109788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_37
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 184
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a550162e4bccd474f99dde9b231fbe24
+      internalID: -1290090737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_38
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 185
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd7f617e3dbaa8439cc85c7cf80f5d6
+      internalID: -39795253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_39
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 186
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c66bacf2ad4ce24f91715d4c8426994
+      internalID: -2012472192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_40
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 186
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7322b004b26cb4b89bd215688536b6
+      internalID: -1914021395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_41
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 186
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6479fc0267bb94c833a6de7acddd74
+      internalID: 1910385476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_42
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 186
+        width: 23
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fbb191616ad0d41b32145ac8b0417b
+      internalID: -890579166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_43
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 185
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbdcef0aafd89848ac49687f0760753
+      internalID: 1737277426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_44
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 187
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030f1bc29776336408c6f03d515a40a6
+      internalID: -1609977244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 151
+        width: 25
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9023dae8bd7ce4191c07b17af12ae6
+      internalID: -1812416340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 150
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbdb59547af6cd499924a021692ae1a
+      internalID: 1558862102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_47
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 150
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467ae89e6d3dcdb4595ac4efaa3e1d0e
+      internalID: 1257341225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_48
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 150
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc8ff080af5fb149bd4c64fb509e62c
+      internalID: 59936492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_49
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 150
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142d9cceed44f22418c3613872a0aeea
+      internalID: -1981051303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 151
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec89c6d11a1cf0b41b77cd8a9df3f588
+      internalID: -683499061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_51
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 151
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f65479e593c8941a516d9293bdf871
+      internalID: 1838869014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_52
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 151
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752b2bb6979bf964c83f923a79f52d7a
+      internalID: 254822201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_53
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 151
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8755b4821990c474c9b51cfbefc250e9
+      internalID: 960149163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_54
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 148
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b550c9447c3a74ca28733d54bfb2ab
+      internalID: -2053188107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 148
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3011519dba544d44a0d7c104de7a032
+      internalID: -2086010268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_56
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 148
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588ef3fc24b6da64fa89538b91023f83
+      internalID: 435924337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_57
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 148
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39f09c519053b6488e2efac3188a9d0
+      internalID: -387788391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_58
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 148
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88c118d3b8d6a548abab080bc50c3b1
+      internalID: -304263009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 148
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceee99c8170f7ef47a518c86ed6413eb
+      internalID: 477605736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_60
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 148
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad600f4bb7156694f9438f96a75806af
+      internalID: -1126636360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_61
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 148
+        width: 21
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a2a5d88257cc049be501fea984c787
+      internalID: 1841812967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_62
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 148
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c315f0101e75241a849ca51d8200a7
+      internalID: 532954556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_63
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 148
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105b712cc9fccbc4f980c551b04a68f6
+      internalID: 348704721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_64
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 148
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892c5707432174e44876819a1e3af075
+      internalID: 1007259993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_65
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 148
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2eca7ece1020c47ba34f838c94a293
+      internalID: -994699611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_66
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 148
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02cd6f806afaa4594a2be1e1377c83
+      internalID: -1997691221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_67
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 148
+        width: 19
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f473aaf27e1f649b8511e8d01bb1a1
+      internalID: -242742576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_68
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 113
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02e0e4a4f755934984b8e7ced8233bd
+      internalID: 1330070958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_69
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 113
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0115165a550ae4db4b05aa6d0b9209
+      internalID: -1537561336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_70
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 113
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6de12fd13906f4d93e5ae26bb1abd9
+      internalID: 1982708733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5637620916e3e247af931cd498fe6e1
+      internalID: -1352389067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_72
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 112
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1fe43370438f64cbf78fdcc8de6226
+      internalID: -1842420544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_73
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 112
+        width: 23
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a84c273c4843c429056b099e24c570
+      internalID: -375446366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_74
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 112
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6146c81598913a941988c01c5872440e
+      internalID: 1014826743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 112
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483792b93d460b74fb92dc7edf31346b
+      internalID: -135139639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_76
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 112
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c1401ec4263cf46903f551d85f055f
+      internalID: 2115436363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_77
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 112
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286ade7eaa95ac14c86497c9ad499991
+      internalID: -1407098858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_78
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 130
+        width: 34
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbf3e3439377d6408dcf02ab53d2826
+      internalID: -1217597541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_79
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 130
+        width: 34
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d4cc8ebb41aac49a305eb6b8e33f3f
+      internalID: 209023523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_80
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 112
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bca93913ceb954c924269f5e84a44f
+      internalID: -1676584862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_81
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 112
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc39f4e6be7e241ad865b469c08768
+      internalID: 1847838901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_82
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 114
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da08231c21e6204884fe2b610b20a79
+      internalID: -78345585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_83
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 112
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93eb912894a01e44380a60cc7d4695ad
+      internalID: 652670180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_84
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 111
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41801ff74349c17408fafb535e9069d2
+      internalID: 1365181397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_85
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 113
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45bb97ab1001b342bf5d2a10a01d3d6
+      internalID: -1044484629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_86
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 112
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec0714306c3890458b896347457d620
+      internalID: -1108814263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_87
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 111
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6fa768dbf232c45ba107cea14623ec
+      internalID: -265098106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_88
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 114
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1526678b408d8754a8fda7d4c45fdd3a
+      internalID: -1755909809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_89
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 113
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4f9f6097d97ff46aacab0867151006
+      internalID: -1768955786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 75
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf2a604aef5a3d43be8a615632b6a65
+      internalID: 1167439287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_91
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 77
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec34b79fd03062d4cb3d067c04920746
+      internalID: 234637799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_92
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 17
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eadbafe8c88222d46b2c49d403718bd8
+      internalID: 2077182436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_93
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 75
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d461caf06d7c5640b69bde4424c4169
+      internalID: -11189511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_94
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 76
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f925bbe9111c524db7ae472ea0a1020
+      internalID: -5547078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_95
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 75
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201d4d7d61b1be54884588936408714a
+      internalID: 621027394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_96
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 74
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7bf40fa3f905345b3dc481c2d6334a
+      internalID: -1822380988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_97
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 77
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f085a3b01dba34db98282d16dc6aa1
+      internalID: -1676199074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_98
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 76
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0bdeb3a3332954f8e920647eba4564
+      internalID: 1881665136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_99
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 75
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa91372ce1e81a45a7ba8a5aa475c5f
+      internalID: -196499981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_100
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 76
+        width: 20
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cec8dc705624e2468f385551199259e
+      internalID: -1380420886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_101
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 75
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d90c967b434d5045a746cb3e96f526f
+      internalID: -1933213783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_102
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 74
+        width: 18
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f075e4677424ea146a76bbba3f42e8b9
+      internalID: -1829819495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_103
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 77
+        width: 20
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf15270dd59352e46a2e63ecc694f07e
+      internalID: 1580533715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_104
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 76
+        width: 18
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d9f6d78a74ae438a79af285b30991
+      internalID: -365262352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_105
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 75
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f0313beed6ef8438c8133bfe9cbcf5
+      internalID: -109025110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_106
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 75
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08adf93eea78d4d4a9474a0b2975292d
+      internalID: -1221130802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_107
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 75
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e0a10d1f3c8e74c9a41ea3a0a2e723
+      internalID: 1008579803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_108
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 75
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906cb95aa3631cc40a194ec514d38677
+      internalID: 1277912710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_109
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 75
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c0d63dd857db4408e24cb5e506c9c4
+      internalID: 88038931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_110
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 75
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e94363a4a2a794a9b2a2e2f01431c6
+      internalID: -1749917553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_111
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 75
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08162789d8de72442a3e61de33579a69
+      internalID: -2098804292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_112
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 75
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12707c11594dae429a7a45174e6ffc7
+      internalID: 1511063317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_113
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 75
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe7b20d7be6e2b45ab64076c85cf78b
+      internalID: -785823003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_114
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 75
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e09eacc9efd71a459c32be7803d8b12
+      internalID: -704996165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_115
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883005697f591cd47bb2fb95c5bb96fc
+      internalID: -1713544696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_116
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 38
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79335cb448391ee4e857d4410edfe181
+      internalID: 1736767081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_117
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 38
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c14dd24ac40d041a8f90df87e3ffc2
+      internalID: 1316557506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_118
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 39
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f14adb6361b0ca478acd65b0ad7b8f3
+      internalID: -568577555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_119
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 38
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867dab0378961c74098c32b76869aeae
+      internalID: -2015521935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_120
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 38
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2850d658ee8707a46b31b9f22b2b58e2
+      internalID: 1356933016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_121
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 39
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150630b95253bbe4eb347a2ffb25dc73
+      internalID: 788725777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 38
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d91bf234cdd1c4da1e2a2d50bbd5d7
+      internalID: -1066432055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_123
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 38
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb428bd611fbb694eaeab14bfa2d47a7
+      internalID: -355466581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_124
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 39
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c586f33b1ee63948a2ab0aed0baf318
+      internalID: 265667432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_125
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 38
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7fa5776588c7b468a3260cd585ddda
+      internalID: 802252765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 38
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015aae4422616724a9ba68f0f1c4abaf
+      internalID: -329059441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_127
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 39
+        width: 19
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd384670632ba7c4096278f1e57ec667
+      internalID: 1239116265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_128
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 38
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f03cb0eb31617044bab864b7c3b5747
+      internalID: 1315279349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ChrTX_NpcClf_MerchantB_cl_129
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 38
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba16c3af458ce24982576773b83ff4f
+      internalID: 1548035521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8e201f7a3fc82c84c8ab5414467dd19b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ChrTX_NpcClf_MerchantB_cl_0: -1524631719
+      ChrTX_NpcClf_MerchantB_cl_1: -457678852
+      ChrTX_NpcClf_MerchantB_cl_10: 2090388062
+      ChrTX_NpcClf_MerchantB_cl_100: -1380420886
+      ChrTX_NpcClf_MerchantB_cl_101: -1933213783
+      ChrTX_NpcClf_MerchantB_cl_102: -1829819495
+      ChrTX_NpcClf_MerchantB_cl_103: 1580533715
+      ChrTX_NpcClf_MerchantB_cl_104: -365262352
+      ChrTX_NpcClf_MerchantB_cl_105: -109025110
+      ChrTX_NpcClf_MerchantB_cl_106: -1221130802
+      ChrTX_NpcClf_MerchantB_cl_107: 1008579803
+      ChrTX_NpcClf_MerchantB_cl_108: 1277912710
+      ChrTX_NpcClf_MerchantB_cl_109: 88038931
+      ChrTX_NpcClf_MerchantB_cl_11: -1849235386
+      ChrTX_NpcClf_MerchantB_cl_110: -1749917553
+      ChrTX_NpcClf_MerchantB_cl_111: -2098804292
+      ChrTX_NpcClf_MerchantB_cl_112: 1511063317
+      ChrTX_NpcClf_MerchantB_cl_113: -785823003
+      ChrTX_NpcClf_MerchantB_cl_114: -704996165
+      ChrTX_NpcClf_MerchantB_cl_115: -1713544696
+      ChrTX_NpcClf_MerchantB_cl_116: 1736767081
+      ChrTX_NpcClf_MerchantB_cl_117: 1316557506
+      ChrTX_NpcClf_MerchantB_cl_118: -568577555
+      ChrTX_NpcClf_MerchantB_cl_119: -2015521935
+      ChrTX_NpcClf_MerchantB_cl_12: 430639446
+      ChrTX_NpcClf_MerchantB_cl_120: 1356933016
+      ChrTX_NpcClf_MerchantB_cl_121: 788725777
+      ChrTX_NpcClf_MerchantB_cl_122: -1066432055
+      ChrTX_NpcClf_MerchantB_cl_123: -355466581
+      ChrTX_NpcClf_MerchantB_cl_124: 265667432
+      ChrTX_NpcClf_MerchantB_cl_125: 802252765
+      ChrTX_NpcClf_MerchantB_cl_126: -329059441
+      ChrTX_NpcClf_MerchantB_cl_127: 1239116265
+      ChrTX_NpcClf_MerchantB_cl_128: 1315279349
+      ChrTX_NpcClf_MerchantB_cl_129: 1548035521
+      ChrTX_NpcClf_MerchantB_cl_13: -832725377
+      ChrTX_NpcClf_MerchantB_cl_14: -308364205
+      ChrTX_NpcClf_MerchantB_cl_15: 1867685573
+      ChrTX_NpcClf_MerchantB_cl_16: -797586684
+      ChrTX_NpcClf_MerchantB_cl_17: 684483431
+      ChrTX_NpcClf_MerchantB_cl_18: -94782177
+      ChrTX_NpcClf_MerchantB_cl_19: -2095746625
+      ChrTX_NpcClf_MerchantB_cl_2: -1689284593
+      ChrTX_NpcClf_MerchantB_cl_20: -1623279979
+      ChrTX_NpcClf_MerchantB_cl_21: 1818399586
+      ChrTX_NpcClf_MerchantB_cl_22: 1803083169
+      ChrTX_NpcClf_MerchantB_cl_23: -1752640178
+      ChrTX_NpcClf_MerchantB_cl_24: 406666182
+      ChrTX_NpcClf_MerchantB_cl_25: 716590815
+      ChrTX_NpcClf_MerchantB_cl_26: -907565645
+      ChrTX_NpcClf_MerchantB_cl_27: -1012905289
+      ChrTX_NpcClf_MerchantB_cl_28: -283568217
+      ChrTX_NpcClf_MerchantB_cl_29: -536883328
+      ChrTX_NpcClf_MerchantB_cl_3: 681331999
+      ChrTX_NpcClf_MerchantB_cl_30: -580963663
+      ChrTX_NpcClf_MerchantB_cl_31: 1998247228
+      ChrTX_NpcClf_MerchantB_cl_32: -1742328618
+      ChrTX_NpcClf_MerchantB_cl_33: -916991879
+      ChrTX_NpcClf_MerchantB_cl_34: -970801840
+      ChrTX_NpcClf_MerchantB_cl_35: 630873051
+      ChrTX_NpcClf_MerchantB_cl_36: 1871109788
+      ChrTX_NpcClf_MerchantB_cl_37: -1290090737
+      ChrTX_NpcClf_MerchantB_cl_38: -39795253
+      ChrTX_NpcClf_MerchantB_cl_39: -2012472192
+      ChrTX_NpcClf_MerchantB_cl_4: -2125537592
+      ChrTX_NpcClf_MerchantB_cl_40: -1914021395
+      ChrTX_NpcClf_MerchantB_cl_41: 1910385476
+      ChrTX_NpcClf_MerchantB_cl_42: -890579166
+      ChrTX_NpcClf_MerchantB_cl_43: 1737277426
+      ChrTX_NpcClf_MerchantB_cl_44: -1609977244
+      ChrTX_NpcClf_MerchantB_cl_45: -1812416340
+      ChrTX_NpcClf_MerchantB_cl_46: 1558862102
+      ChrTX_NpcClf_MerchantB_cl_47: 1257341225
+      ChrTX_NpcClf_MerchantB_cl_48: 59936492
+      ChrTX_NpcClf_MerchantB_cl_49: -1981051303
+      ChrTX_NpcClf_MerchantB_cl_5: 988547126
+      ChrTX_NpcClf_MerchantB_cl_50: -683499061
+      ChrTX_NpcClf_MerchantB_cl_51: 1838869014
+      ChrTX_NpcClf_MerchantB_cl_52: 254822201
+      ChrTX_NpcClf_MerchantB_cl_53: 960149163
+      ChrTX_NpcClf_MerchantB_cl_54: -2053188107
+      ChrTX_NpcClf_MerchantB_cl_55: -2086010268
+      ChrTX_NpcClf_MerchantB_cl_56: 435924337
+      ChrTX_NpcClf_MerchantB_cl_57: -387788391
+      ChrTX_NpcClf_MerchantB_cl_58: -304263009
+      ChrTX_NpcClf_MerchantB_cl_59: 477605736
+      ChrTX_NpcClf_MerchantB_cl_6: 1559932002
+      ChrTX_NpcClf_MerchantB_cl_60: -1126636360
+      ChrTX_NpcClf_MerchantB_cl_61: 1841812967
+      ChrTX_NpcClf_MerchantB_cl_62: 532954556
+      ChrTX_NpcClf_MerchantB_cl_63: 348704721
+      ChrTX_NpcClf_MerchantB_cl_64: 1007259993
+      ChrTX_NpcClf_MerchantB_cl_65: -994699611
+      ChrTX_NpcClf_MerchantB_cl_66: -1997691221
+      ChrTX_NpcClf_MerchantB_cl_67: -242742576
+      ChrTX_NpcClf_MerchantB_cl_68: 1330070958
+      ChrTX_NpcClf_MerchantB_cl_69: -1537561336
+      ChrTX_NpcClf_MerchantB_cl_7: -263793047
+      ChrTX_NpcClf_MerchantB_cl_70: 1982708733
+      ChrTX_NpcClf_MerchantB_cl_71: -1352389067
+      ChrTX_NpcClf_MerchantB_cl_72: -1842420544
+      ChrTX_NpcClf_MerchantB_cl_73: -375446366
+      ChrTX_NpcClf_MerchantB_cl_74: 1014826743
+      ChrTX_NpcClf_MerchantB_cl_75: -135139639
+      ChrTX_NpcClf_MerchantB_cl_76: 2115436363
+      ChrTX_NpcClf_MerchantB_cl_77: -1407098858
+      ChrTX_NpcClf_MerchantB_cl_78: -1217597541
+      ChrTX_NpcClf_MerchantB_cl_79: 209023523
+      ChrTX_NpcClf_MerchantB_cl_8: 1705409634
+      ChrTX_NpcClf_MerchantB_cl_80: -1676584862
+      ChrTX_NpcClf_MerchantB_cl_81: 1847838901
+      ChrTX_NpcClf_MerchantB_cl_82: -78345585
+      ChrTX_NpcClf_MerchantB_cl_83: 652670180
+      ChrTX_NpcClf_MerchantB_cl_84: 1365181397
+      ChrTX_NpcClf_MerchantB_cl_85: -1044484629
+      ChrTX_NpcClf_MerchantB_cl_86: -1108814263
+      ChrTX_NpcClf_MerchantB_cl_87: -265098106
+      ChrTX_NpcClf_MerchantB_cl_88: -1755909809
+      ChrTX_NpcClf_MerchantB_cl_89: -1768955786
+      ChrTX_NpcClf_MerchantB_cl_9: -1815890048
+      ChrTX_NpcClf_MerchantB_cl_90: 1167439287
+      ChrTX_NpcClf_MerchantB_cl_91: 234637799
+      ChrTX_NpcClf_MerchantB_cl_92: 2077182436
+      ChrTX_NpcClf_MerchantB_cl_93: -11189511
+      ChrTX_NpcClf_MerchantB_cl_94: -5547078
+      ChrTX_NpcClf_MerchantB_cl_95: 621027394
+      ChrTX_NpcClf_MerchantB_cl_96: -1822380988
+      ChrTX_NpcClf_MerchantB_cl_97: -1676199074
+      ChrTX_NpcClf_MerchantB_cl_98: 1881665136
+      ChrTX_NpcClf_MerchantB_cl_99: -196499981
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
