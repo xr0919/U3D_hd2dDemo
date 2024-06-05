@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{875F6F82-27D0-5124-37BE-ED0D4FF7DD03}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMingo.Common.Runtime", "TeamMingo.Common.Runtime.csproj", "{FD8D1448-06CF-BAED-91A0-7E8674013BE4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMingo.Thirdparts.MonoGame.Aseprite", "TeamMingo.Thirdparts.MonoGame.Aseprite.csproj", "{8C4339D8-6527-F79E-7332-DEEDD671BAC3}"
@@ -10,8 +12,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeReferenceDropdown", "SerializeReferenceDropdown.csproj", "{99624414-0ACD-90B2-51C7-7464334DA5D7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializeReferenceDropdownRuntime", "SerializeReferenceDropdownRuntime.csproj", "{EBA9ADB2-52A4-B0E3-9149-7F9A19D321FE}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{875F6F82-27D0-5124-37BE-ED0D4FF7DD03}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamMingo.ImagePacker.Editor", "TeamMingo.ImagePacker.Editor.csproj", "{A8BB3AA3-168F-2DF7-CF44-0EC65E9358B0}"
 EndProject
@@ -31,6 +31,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{875F6F82-27D0-5124-37BE-ED0D4FF7DD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{875F6F82-27D0-5124-37BE-ED0D4FF7DD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{875F6F82-27D0-5124-37BE-ED0D4FF7DD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{875F6F82-27D0-5124-37BE-ED0D4FF7DD03}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FD8D1448-06CF-BAED-91A0-7E8674013BE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FD8D1448-06CF-BAED-91A0-7E8674013BE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD8D1448-06CF-BAED-91A0-7E8674013BE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -51,10 +55,6 @@ Global
 		{EBA9ADB2-52A4-B0E3-9149-7F9A19D321FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBA9ADB2-52A4-B0E3-9149-7F9A19D321FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBA9ADB2-52A4-B0E3-9149-7F9A19D321FE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{875F6F82-27D0-5124-37BE-ED0D4FF7DD03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{875F6F82-27D0-5124-37BE-ED0D4FF7DD03}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{875F6F82-27D0-5124-37BE-ED0D4FF7DD03}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{875F6F82-27D0-5124-37BE-ED0D4FF7DD03}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A8BB3AA3-168F-2DF7-CF44-0EC65E9358B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{A8BB3AA3-168F-2DF7-CF44-0EC65E9358B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8BB3AA3-168F-2DF7-CF44-0EC65E9358B0}.Release|Any CPU.ActiveCfg = Release|Any CPU

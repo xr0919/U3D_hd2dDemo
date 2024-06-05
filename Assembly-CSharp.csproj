@@ -58,16 +58,18 @@
     <Analyzer Include="D:\Program Files\Unity\Hub\Editor\2022.3.10f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Menu\UIManager.cs" />
     <Compile Include="Assets\Scripts\Time\Logic\TimeManager.cs" />
     <Compile Include="Assets\Scripts\Utilities\SwitchBounds.cs" />
     <Compile Include="Assets\Scripts\Dialogue\Data\DialoguePiece.cs" />
     <Compile Include="Assets\LightRays2D\Script\LightRays2D.cs" />
     <Compile Include="Assets\LightRays2D\Script\LightRays2DAbstract.cs" />
-    <Compile Include="Assets\Scripts\NPCFollow.cs" />
     <Compile Include="Assets\Scripts\Dialogue\UI\DialogueUI.cs" />
     <Compile Include="Assets\HD2DProject\Scripts\Sprites\SpriteShadow.cs" />
     <Compile Include="Assets\Scripts\Utilities\EventHandler.cs" />
     <Compile Include="Assets\Scripts\Transition\TransitionManager.cs" />
+    <Compile Include="Assets\Scripts\Save Load\Data\DataSlot.cs" />
+    <Compile Include="Assets\Scripts\Save Load\Data\GameSaveData.cs" />
     <Compile Include="Assets\HD2DProject\Scripts\Sprites\SpriteSorting.cs" />
     <Compile Include="Assets\Scripts\NPC\NPCLogic.cs" />
     <Compile Include="Assets\Scripts\Dialogue\Logic\DialogueController.cs" />
@@ -77,10 +79,14 @@
     <Compile Include="Assets\Scripts\Utilities\SwitchBounts.cs" />
     <Compile Include="Assets\Scripts\Utilities\Settings.cs" />
     <Compile Include="Assets\HD2DProject\Scripts\Sprites\SpriteQuad.cs" />
+    <Compile Include="Assets\Scripts\NPC\NPCFollow.cs" />
     <Compile Include="Assets\Scripts\Time\UI\TimeUI.cs" />
     <Compile Include="Assets\LightRays2D\Script\LightRays2DCanvas.cs" />
     <Compile Include="Assets\Scripts\Light\Logic\LightManager.cs" />
+    <Compile Include="Assets\Scripts\Menu\SaveSlotUI.cs" />
+    <Compile Include="Assets\Scripts\Menu\MenuUI.cs" />
     <Compile Include="Assets\Scripts\Transition\Teleport.cs" />
+    <Compile Include="Assets\Scripts\Test.cs" />
     <Compile Include="Assets\Scripts\Utilities\Singleton.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -6,7 +6,7 @@ using UnityEngine.AI;
 public class NPCFollow : MonoBehaviour
 {
     private NavMeshAgent agent;
-    public Transform player;
+    //public Transform player;
     public Transform spriteChild;
     public Animator animator;
     // Start is called before the first frame update

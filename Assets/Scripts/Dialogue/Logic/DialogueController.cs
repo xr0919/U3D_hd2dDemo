@@ -61,7 +61,7 @@ public class DialogueController : MonoBehaviour
                     StartCoroutine(DailogueRoutine());
                     //世界坐标转屏幕坐标
                     Vector3 npcW2S = Camera.main.WorldToScreenPoint(this.transform.position);
-                    Vector3 tempV = new Vector3(npcW2S.x - 120, npcW2S.y + 80, npcW2S.z);
+                    Vector3 tempV = new Vector3(npcW2S.x - 120, npcW2S.y + 90, npcW2S.z);
                     if (dialogueRectTransform != null)
                     {
                         dialogueRectTransform.position = tempV;

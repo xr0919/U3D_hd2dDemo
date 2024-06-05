@@ -135,4 +135,8 @@ public static class EventHandler
     {
         ShowDialogueEvent = null;
     }
+
+    //PAUSE
+    public static event Action PauseGame;
+    public static void CallPauseGameEvent() {  PauseGame?.Invoke(); }
 }
