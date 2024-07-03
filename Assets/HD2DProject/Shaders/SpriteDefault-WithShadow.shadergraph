@@ -955,7 +955,8 @@
     },
     "m_TextureType": 0,
     "m_NormalMapSpace": 0,
-    "m_EnableGlobalMipBias": true
+    "m_EnableGlobalMipBias": true,
+    "m_MipSamplingMode": 0
 }
 
 {
@@ -1162,7 +1163,7 @@
 }
 
 {
-    "m_SGVersion": 1,
+    "m_SGVersion": 2,
     "m_Type": "UnityEditor.Rendering.Universal.ShaderGraph.UniversalLitSubTarget",
     "m_ObjectId": "78f1f759b1b74abe9ff7f7e225fe22b3",
     "m_WorkflowMode": 1,
@@ -1815,6 +1816,7 @@
     "m_SGVersion": 1,
     "m_Type": "UnityEditor.Rendering.Universal.ShaderGraph.UniversalTarget",
     "m_ObjectId": "bf4cf8e054d444f696c6ebb2c68b5e51",
+    "m_Datas": [],
     "m_ActiveSubTarget": {
         "m_Id": "78f1f759b1b74abe9ff7f7e225fe22b3"
     },
@@ -1827,6 +1829,7 @@
     "m_AlphaClip": true,
     "m_CastShadows": true,
     "m_ReceiveShadows": true,
+    "m_SupportsLODCrossFade": false,
     "m_CustomEditorGUI": "",
     "m_SupportVFX": false
 }
